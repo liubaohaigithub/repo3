@@ -1,5 +1,9 @@
 你好，git！！
 进行了修改
 第三次修改
+<<<<<<< HEAD
 add some content too
 qqqqqqqqqqqqqqqqqqqq
+add some content to hello.txt
+wwwwwwwwwwwwwwwwww
+
